@@ -17,11 +17,11 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 License
 The Laravel framework is open-sourced software licensed under the MIT license.
 
-Please follow below points to test Pratical demo project
+Please follow below points to test Laravel Sample project
 
-clone the project // git clone git@github.com/jspmahavir/laravelSample.git
-install composer // composer install
-migrate with seeder // php artisan migrate
-Create database in Mysql and update env file with DB name and DB connection.
-Rum php artisan serve
-register from register link.
+1) Clone the project // git clone git@github.com/jspmahavir/laravelSample.git
+2) install composer // composer install
+2) migrate with seeder // php artisan migrate
+4) Create database in Mysql and update env file with DB name and DB connection.
+5) Rum php artisan serve
+6) Register from register link.
